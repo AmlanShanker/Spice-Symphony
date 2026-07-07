@@ -201,20 +201,6 @@ Visit the project here:
 
 ---
 
-## 🚀 Future Enhancements
-
-- 👤 User Login & Registration
-- 📦 Online Food Ordering
-- 🚚 Order Tracking
-- 💬 Customer Reviews & Ratings
-- 📧 Email Confirmation for Reservations
-- 📱 Progressive Web App (PWA)
-- 🌙 Dark Mode
-- 📊 Admin Dashboard
-- 🍽️ Table Availability Tracking
-
----
-
 ## 👨‍💻 Author
 
 **Amlan Shanker**
